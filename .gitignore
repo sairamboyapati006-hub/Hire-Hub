@@ -1,0 +1,11 @@
+.venv/
+_pycache_/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.vscode/
+.DS_Store
+Thumbs.db
+uploads/
+backend/create_recruiter.py
